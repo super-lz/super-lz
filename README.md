@@ -5,6 +5,6 @@
 - 📫 My personal page is [粒子顶点](https://leazer.top/)
 
 
-### Interesting Link
+### My Page
 - memorial Hawking: https://leazer.top/hawking/
 - sign language interpreter: https://leazer.top/hei/translator/
