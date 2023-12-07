@@ -12,3 +12,7 @@
 - 昆虫学书库：https://leazer.top/insect/
 - 糖果分类游戏：https://leazer.top/candy/
 - 第十四届中国计算机图形学大官网：https://chinagraph2022.qhu.edu.cn/
+
+### 探索ing
+- 工具导航：https://tool.leazer.top/
+- 骑行探险家：https://leazer.top/
