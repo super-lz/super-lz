@@ -13,6 +13,7 @@
 - 糖果分类游戏：https://leazer.top/candy/
 - 随机美甲：https://leazer.top/mj/
 - 小火星自闭症就业服务中心：https://leazer.top/spark/
+- 嘿网：https://leazer.top/hei/
 - 第十四届中国计算机图形学大官网：https://chinagraph2022.qhu.edu.cn/
 
 ### 探索ing
