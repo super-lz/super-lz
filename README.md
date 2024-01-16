@@ -11,6 +11,7 @@
 - 手语翻译: https://leazer.top/hei/translator/
 - 昆虫学书库：https://leazer.top/insect/
 - 糖果分类游戏：https://leazer.top/candy/
+- 随机美甲：https://leazer.top/mj/
 - 第十四届中国计算机图形学大官网：https://chinagraph2022.qhu.edu.cn/
 
 ### 探索ing
