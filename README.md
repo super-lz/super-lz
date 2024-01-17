@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning build online PPT and Online delivery.
 - 📫 My personal page is [粒子顶点](https://leazer.top/)
 
+### 组件
+- KeepAliveBuilder: https://pub.dev/packages/keep_alive_builder
 
 ### 作品
 - Leazer Fspace在线会议: https://101.35.43.119:3000/
